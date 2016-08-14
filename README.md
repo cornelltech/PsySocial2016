@@ -33,22 +33,22 @@ This is the week-by-week plan.
 |3 | Cognition | to design technology that matches people’s mental processing models and capabilities |  
 |4 | Learning | to design technologies that people can learn, remember, and adopt as habit | 
 |5 | Motivation and Goals  | understand what propels people to better perform, achieve goals, and complete tasks | 
-|6 | Influence and Persuasion | to design technologies that steer people towards favorable choices | 
-|7 | Identity and Personality| to understand how basic theories of personality and identity can inform system design | 
-|8 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
-|9 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization | 
-|10 | Social Ties | to design systems that effectively use and support different types of relationships | 
-|11 | Social Networks | to understand the structure and effect of the social networks that underlie media services |
-|12 | Trust and Local Community | to understand how people perceive and assess trust and risk in others, and design systems that enable trust between individuals |
-|13 | Class Presentations (Replication Assignment Due) | |  
-|14 | Class Presentations | |  
+|6 | Decisions and Bounded Rationality | understand how people make decisions and what biases exist when they do |
+|7 | Influence and Persuasion | to design technologies that steer people towards favorable choices | 
+|8 | Identity and Personality| to understand how basic theories of personality and identity can inform system design | 
+|9 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
+|10 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization | 
+|11 | Social Ties | to design systems that effectively use and support different types of relationships | 
+|12 | Social Networks | to understand the structure and effect of the social networks that underlie media services |
+|13 | Trust and Local Community | to understand how people perceive and assess trust and risk in others, and design systems that enable trust between individuals |
+|14 | Class Presentations (Replication Assignment Due) | |  
 
 
 ## Class Requirements
 
-### Readings
+### Reading Quizes
 
-The reading materials, mostly papers and book chapters, are listed below. All the readings are required, and you will be asked submit an online response (quiz) to the reading every week before class. You may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of technology. Your lowest reading response grade will not be counted. This grade may be a week where you missed the response (no questions asked). Late submissions will be treated as missing. Non-submissions beyond the first will receive a grade of zero.
+The reading materials are mostly papers and book chapters. All the readings are required, and you will be asked submit a response (quiz) to the reading every week before or in class. You may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of technology. Your _two lowest_ reading response grades will not be counted. These grades include weeks where you missed the response (e.g. late or absent, with no questions asked). Late submissions will be treated as missing. Non-submissions beyond the allowed lowest grades will receive a grade of zero.
 
 ### Presentations
 
