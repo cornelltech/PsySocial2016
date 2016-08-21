@@ -91,25 +91,24 @@ M.Eng and MBA students may take the class for a grade or pass-fail with prior ap
 
 Class presentations will be assigned by the teaching team. 
 
-The basic presentations should be 15 minutes long, strictly enforced, but the presenters should *lead an additional 10-15 minutes of discussion*. The initial presentation should briefly touch on:
-*	The main theory/argument of the article/reading
-*	The methods used to support the argument
+The basic presentations should be 15 minutes long, strictly enforced. The presentation must touch on:
+*	The main theory/argument of the article/reading (1-2 minutes)
+*	The methods used to support the argument, if any (1-2 minutes)
 *	The implications of the article for different technologies.
+*	Additional scholarly articles that are related to the reading. 
+	
+These additional articles could be a) describing a related theory, or b) offering a critique of the original article, or c) showing how the theory presented in the article is used in a technical system. The teaching team will be available to provide some pointers and directions as needed; you will need to approach us by the Friday before your presentation, at the latest, to get assistance. 
 
-The presenter will also identify and discuss additional scholarly articles that are related to the reading. These articles could be a) describing a related theory, or b) offering a critique of the original article, or c) showing how the theory presented in the article is used in a technical system. The teaching team will be available to provide some pointers and directions as needed; you will need to approach us by the Friday before your presentation, at the latest, to get assistance. 
+While the presentations are done in groups, each presentation should be 100% coherent and consistent. In other words, presentations that are clearly based on "split work" where each partner is respobsible for her/his own part are unacceptable. Work together to create a flowing, coherent and meaningful presentation! 
 
-The discussion you lead could be woven into your presentation. Bonus points for original ways to lead or encourage discussion and participation! 
-
-While the presentations are done in pairs, each presentation should be 100% coherent and consistent. In other words, presentations that are clearly based on "split work" where each partner is respobsible for her/his own part are unacceptable. Work together to create a flowing, coherent and meaningful presentation! 
-
-Your presentation grade will be based on the quality and clarity of your presentation and the discussion. 
+Your presentation grade will be based on the quality and clarity of your presentation. 
 
 ## The teaching team
 
 ### Mor Naaman
 Instructor, Associate Professor<br/>
 mor -AT- jacobs.cornell.edu<br/>
-@informor
+[@informor](http://twitter.com/informor)
 
 Where to find him: on campus<br/>
 When to find him: email to schedule time to chat
