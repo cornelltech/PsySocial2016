@@ -26,23 +26,23 @@ This course, meeting core requirements in the Connective Media and Health Tech p
 ## Week-by-week
 This is the week-by-week plan. 
 
-| Topic/Date | Title | Why | 
-|:----------|:------|:----------|
-|1 8/23, 8/25 | Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Tech.| 
-|2 8/30, 9/1 | Perception and Attention | to build systems that cater to how people perceive and pay attention to information | 
-|3  9/6, 9/8 | Cognition | to design technology that matches people’s mental processing models and capabilities |  
-|4 9/13, 9/15 | Learning | to design technologies that people can learn, remember, and adopt as habit | 
-|5  9/20, 9/22 | Motivation and Goals  | understand what propels people to better perform, achieve goals, and complete tasks | 
-|6 9/27, 9/29 | Decisions and Bounded Rationality | understand how people make decisions and what biases exist when they do |
-|7 10/4, 10/6 | Influence and Persuasion | to design technologies that steer people towards favorable choices | 
-|Fall Break 10/11 | | | 
-|8 10/13, 10/18 | Identity and Personality| to understand how basic theories of personality and identity can inform system design | 
-|9 10/20, 10/25 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization |
-|10 10/27, 11/1 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
-|11 11/3, 11/8 | Social Ties | to design systems that effectively use and support different types of relationships | 
-|12 11/10, 11/15 | Social Networks | to understand the structure and effect of the social networks that underlie media services |
-|13 11/17, 11/22 | Trust and Local Community | to understand how people perceive and assess trust and risk in others, and design systems that enable trust between individuals |
-|14 11/29, 12/1 | Class Presentations (Replication Assignment Due) | |  
+| Topic | Date | Title | Why | 
+|:-----|:-----|:------|:----------|
+|1 | 8/23, 8/25 | Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Tech.| 
+|2 | 8/30, 9/1 | Perception and Attention | to build systems that cater to how people perceive and pay attention to information | 
+|3  | 9/6, 9/8 | Cognition | to design technology that matches people’s mental processing models and capabilities |  
+|4 | 9/13, 9/15 | Learning | to design technologies that people can learn, remember, and adopt as habit | 
+|5 |  9/20, 9/22 | Motivation and Goals  | understand what propels people to better perform, achieve goals, and complete tasks | 
+|6 | 9/27, 9/29 | Decisions and Bounded Rationality | understand how people make decisions and what biases exist when they do |
+|7 | 10/4, 10/6 | Influence and Persuasion | to design technologies that steer people towards favorable choices | 
+|Fall Break | 10/11 | | | 
+|8 | 10/13, 10/18 | Identity and Personality| to understand how basic theories of personality and identity can inform system design | 
+|9 | 10/20, 10/25 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization |
+|10 | 10/27, 11/1 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
+|11 | 11/3, 11/8 | Social Ties | to design systems that effectively use and support different types of relationships | 
+|12 | 11/10, 11/15 | Social Networks | to understand the structure and effect of the social networks that underlie media services |
+|13 | 11/17, 11/22 | Trust and Local Community | to understand how people perceive and assess trust and risk in others, and design systems that enable trust between individuals |
+|14 | 11/29, 12/1 | Class Presentations (Replication Assignment Due) | |  
 
 ## Class Requirements
 
