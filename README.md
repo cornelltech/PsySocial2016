@@ -46,9 +46,11 @@ This is the week-by-week plan.
 
 ## Class Requirements
 
-### Reading Quizes
+### Reading and Quizzes
 
-The reading materials are mostly papers and book chapters. All the readings are required, and you will be asked submit a response (quiz) to the reading every week before or in class. You may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of technology. Your _two lowest_ reading response grades will not be counted. These grades include weeks where you missed the response (e.g. late or absent, with no questions asked). Late submissions will be treated as missing. Non-submissions beyond the allowed lowest grades will receive a grade of zero.
+[Reading list by week](https://github.com/cornelltech/PsySocial2016/wiki)
+
+The reading materials are mostly papers and book chapters. All the readings are required, and you will be asked submit a response (or quiz) to the reading every week before or in class. In a response you may be asked, for example, to reason about each reading, provide critique and extensions, and comment about its significance in the context of technology. In a quiz you may be asked about details of the reading and/or the preceding week's class material. Your _two lowest_ reading response grades will not be counted. These grades include weeks where you missed the response (e.g. late or absent, with no questions asked). Late submissions or arrivals will be treated as missing. Non-submissions beyond the allowed lowest grades will receive a grade of zero.
 
 ### Presentations
 
