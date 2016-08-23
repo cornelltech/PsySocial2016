@@ -4,8 +4,8 @@
 INFO 5310, Fall 2016<br/>
 Prof. Mor Naaman<br/>
 Cornell Tech<br/>
-Tue Thu, 9:30am-10:45am
-[Slack team](https://psysocial2016.slack.com/signup) (mandatory, sign in with your Cornell.edu email)
+Tue Thu, 9:30am-10:45am<br/>
+[Slack team](https://psysocial2016.slack.com/signup) (mandatory, sign in with your Cornell.edu email)<br/>
 \#psySocial
 
 ## What is this Course?
