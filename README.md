@@ -24,7 +24,7 @@ This course, meeting core requirements in the Connective Media and Health Tech p
 - **Social Systems** - Behavioral and sociological approaches to social systems including groups, social ties, and social networks.
 
 ## Week-by-week
-This is the week-by-week plan. 
+This is the week-by-week plan. Readings for each topic are due on the first day the topic is covered. Noticed that the first day for each topic is *not always a Tuesday*.
 
 | Topic | Date | Title | Why | 
 |:-----|:-----|:------|:----------|
