@@ -28,8 +28,8 @@ This is the week-by-week plan. Readings for each topic are due on the first day 
 
 | Topic | Date | Title | Why | 
 |:-----|:-----|:------|:----------|
-|1 | 8/23, 8/25 | Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Tech.| 
-|2 | 8/30, 9/1 | Perception and Attention | to build systems that cater to how people perceive and pay attention to information | 
+|1 | 8/23 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%201-1.pdf)), 8/25 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%201-2.pdf)) | Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Tech.| 
+|2 | 8/30 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%202-1.pdf?api=v2)), 9/1 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%202-2.pdf)) | Perception and Attention | to build systems that cater to how people perceive and pay attention to information | 
 |3  | 9/6, 9/8 | Cognition | to design technology that matches people’s mental processing models and capabilities |  
 |4 | 9/13, 9/15 | Learning | to design technologies that people can learn, remember, and adopt as habit | 
 |5 |  9/20, 9/22 | Motivation and Goals  | understand what propels people to better perform, achieve goals, and complete tasks | 
