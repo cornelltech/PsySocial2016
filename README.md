@@ -30,14 +30,14 @@ This is the week-by-week plan. Readings for each topic are due on the first day 
 |:-----|:-----|:------|:----------|
 |1 | 8/23 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%201-1.pdf)), 8/25 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%201-2.pdf)) | Intro to Everything | to understand you are not just builders, and there is a lot they need to know if they want to understand the human and social aspects of Tech.| 
 |2 | 8/30 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%202-1.pdf?api=v2)), 9/1 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%202-2.pdf)) | Perception and Attention | to build systems that cater to how people perceive and pay attention to information | 
-|3  | 9/6 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%203-1%20methods.pdf)), 9/8 | Cognition | to design technology that matches people’s mental processing models and capabilities |  
-|4 | 9/13, 9/15 | Learning | to design technologies that people can learn, remember, and adopt as habit | 
-|5 |  9/20, 9/22 | Motivation and Goals  | understand what propels people to better perform, achieve goals, and complete tasks | 
-|6 | 9/27, 9/29 | Decisions and Bounded Rationality | understand how people make decisions and what biases exist when they do |
-|7 | 10/4, 10/6 | Influence and Persuasion | to design technologies that steer people towards favorable choices | 
+|3  | 9/6 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%203-1%20methods.pdf)), 9/8 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%203-2.pdf)) | Cognition | to design technology that matches people’s mental processing models and capabilities |  
+|4 | 9/13 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%204-1.pdf)), 9/15 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%204-2.pdf)) | Learning | to design technologies that people can learn, remember, and adopt as habit | 
+|5 |  9/20 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%205-1.pdf)), 9/22  ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%205-2.pdf))| Motivation and Goals  | understand what propels people to better perform, achieve goals, and complete tasks | 
+|6 | 9/27 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%206-1.pdf)), 9/29 | Decisions and Bounded Rationality | understand how people make decisions and what biases exist when they do |
+|7 | 10/4 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%207-1.pdf)), 10/6 | Influence and Persuasion | to design technologies that steer people towards favorable choices | 
 |Fall Break | 10/11 | | | 
-|8 | 10/13, 10/18 | Identity and Personality| to understand how basic theories of personality and identity can inform system design | 
-|9 | 10/20, 10/25 | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization |
+|8 | 10/13 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%208-1.pdf)), 10/18 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%208-2.pdf)) | Identity and Personality| to understand how basic theories of personality and identity can inform system design | 
+|9 | 10/20 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%209-1.pdf)), 10/25 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%209-2.pdf)) | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization |
 |10 | 10/27, 11/1 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
 |11 | 11/3, 11/8 | Social Ties | to design systems that effectively use and support different types of relationships | 
 |12 | 11/10, 11/15 | Social Networks | to understand the structure and effect of the social networks that underlie media services |
