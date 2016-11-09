@@ -41,7 +41,7 @@ This is the week-by-week plan. Readings for each topic are due on the first day 
 |10 | 10/27, 11/1 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
 |11 | 11/3, 11/8 | Social Ties | to design systems that effectively use and support different types of relationships | 
 |12 | 11/10, 11/15 | Social Networks | to understand the structure and effect of the social networks that underlie media services |
-|13 | 11/17, 11/22 | Trust and Local Community | to understand how people perceive and assess trust and risk in others, and design systems that enable trust between individuals |
+|13 | 11/17, 11/22 | Networked Experiments | to understand the influence dynamics in connected environments  |
 |14 | 11/29, 12/1 | Class Presentations (Replication Assignment Due) | |  
 
 ## Class Requirements
