@@ -38,11 +38,11 @@ This is the week-by-week plan. Readings for each topic are due on the first day 
 |Fall Break | 10/11 | | | 
 |8 | 10/13 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%208-1.pdf)), 10/18 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%208-2.pdf)) | Identity and Personality| to understand how basic theories of personality and identity can inform system design | 
 |9 | 10/20 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%209-1.pdf)), 10/25 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%209-2.pdf)) | Groups and Collectives | to use groups and collectives effectively in coordination, communication and mobilization |
-|10 | 10/27, 11/1 | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
-|11 | 11/3, 11/8 | Social Ties | to design systems that effectively use and support different types of relationships | 
-|12 | 11/10, 11/15 | Social Networks | to understand the structure and effect of the social networks that underlie media services |
-|13 | 11/17, 11/22 | Networked Experiments | to understand the influence dynamics in connected environments  |
-|14 | 11/29, 12/1 | Class Presentations (Replication Assignment Due) | |  
+|10 | 10/27 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%210-1.pdf)), 11/1 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%210-2.pdf)) | Language and Communication | to build systems that effectively use the characteristics of verbal and non-verbal communication | 
+|11 | 11/3 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%211-1.pdf)), 11/8 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%211-2.pdf)) | Social Ties | to design systems that effectively use and support different types of relationships | 
+|12 | 11/10 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%212-1.pdf)), 11/15 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%212-2.pdf)) | Social Networks | to understand the structure and effect of the social networks that underlie media services |
+|13 | 11/17 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%213-1.pdf)), 11/22 | Networked Experiments | to understand the influence dynamics in connected environments  |
+|14 | 11/29 ([slides](https://confluence.cornell.edu/download/attachments/338599315/class%214-1.pdf)), 12/1 | Class Presentations (Replication Assignment Due) | |  
 
 ## Class Requirements
 
